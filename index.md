@@ -1,4 +1,4 @@
+# Welcome to my blog
 ---
-title: Welcome to my blog
+This is a demo blog learning about pages and how I can use them in future projects.
 ---
-description: This is a demo blog learning about pages and how I can use them in future projects.
